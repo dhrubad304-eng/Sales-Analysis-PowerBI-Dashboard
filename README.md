@@ -2,7 +2,7 @@
 
 A Power BI dashboard built using a 25,000-row car sales dataset to analyze sales performance, pricing trends, and year-over-year growth.
 
-![Dashboard Preview](![Dashboard Preview](https://raw.githubusercontent.com/yourusername/yourrepo/main/your-image.png)
+![Dashboard Preview](https://raw.githubusercontent.com/yourusername/yourrepo/main/your-image.png)
 
 ### **What This Project Covers**
 - Data loading from Excel & basic cleaning using Power Query
