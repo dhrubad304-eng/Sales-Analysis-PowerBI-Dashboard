@@ -1,4 +1,4 @@
-# Car Sales Analytics Dashboard (Power BI)Car Sales Analytics Dashboard (Power BI)
+# Car Sales Analytics Dashboard (Power BI)
 
 A Power BI dashboard built using a 25,000-row car sales dataset to analyze sales performance, pricing trends, and year-over-year growth.
 
